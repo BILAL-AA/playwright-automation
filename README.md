@@ -1,4 +1,4 @@
-
+[![Playwright Tests](https://github.com/BILAL-AA/playwright-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/BILAL-AA/playwright-automation/actions/workflows/playwright.yml)
 # Playwright Automation Framework 🚀
 
 This repository contains an automated testing suite built with **Playwright** and **TypeScript**, following the **Page Object Model (POM)** design pattern.
